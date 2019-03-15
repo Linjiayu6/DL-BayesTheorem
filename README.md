@@ -41,14 +41,15 @@
 
 - 推导记录
   
-<img style="width: 400px" src="./img/bayers.jpeg"/>
+<img style="width: 600px" src="./img/bayes.jpeg"/>
 
 <p>在这里，如果"可能性函数"P(B|A)/P(B)>1，意味着"先验概率"被增强，事件A的发生的可能性变大；如果"可能性函数"=1，意味着B事件无助于判断事件A的可能性；如果"可能性函数" 小于1, 意味着"先验概率"被削弱，事件A的可能性变小。</p>
 
 
 ### 4. 例子
 - 水果糖问题 http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_one.html
-- spam http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_two.html
+- Spam 
+  http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_two.html
 
 ### 5. Naive Bayes Classifier
 [Reference]
