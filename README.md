@@ -61,4 +61,4 @@
   cd /NaiveBayesClassifier
   python main.py
 ```
-<img src="./img/classifier_figure.png" style="width: 200px" />
+<img src="./img/classifier_figure.png" style="width: 300px" />
